@@ -19,7 +19,7 @@
             </Folder>
          </Folder>
          <Folder>
-            <Name>templates</Name>
+            <Name>smarty</Name>
             <Folder>
                <Name>default</Name>
 			   <File>
