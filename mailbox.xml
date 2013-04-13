@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ezRPG_Module>
+   <Module>
+      <Name>MailBox</Name>
+      <Version>1.1</Version>
+      <Author>UAKTags</Author>
+    <AuthorSite>http://tagsolutions.tk</AuthorSite>
+	  <Desc>MailBox Module to send and recieve</Desc>
+	  <InstallCode>index.php?mod=Mailbox&amp;act=install</InstallCode>
+      <Files>
+         <Folder>
+            <Name>modules</Name>
+            <Folder>
+               <Name>MailBox</Name>
+			   <File>
+					<Name>index.php</Name>
+					<MD5>FCEBC413B089D6E528E74D9D8A29EB74</MD5>
+			   </File>
+            </Folder>
+         </Folder>
+         <Folder>
+            <Name>templates</Name>
+            <Folder>
+               <Name>default</Name>
+			   <File>
+					<Name>listmail.tpl</Name>
+					<MD5>841D0A5E14F4F1BD20666C046C48B2F1</MD5>
+			   </File>
+			   <File>
+					<Name>outbox.tpl</Name>
+					<MD5>BF9F4A74C11C889C32E11697808DB96B</MD5>
+			   </File>
+			   <File>
+					<Name>readmail.tpl</Name>
+					<MD5>77E7FD59F4F22CE43ACEAA0C774C280A</MD5>
+			   </File>
+			   <File>
+					<Name>sendmail.tpl</Name>
+					<MD5>686AA402AF61ADC55A7822DD7C79938C</MD5>
+			   </File>
+			</Folder>
+         </Folder>
+      </Files>
+   </Module>
+</ezRPG_Module>
